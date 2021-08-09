@@ -1,0 +1,41 @@
+.subtitle{
+    font-size: 5vw;
+    height:50vh
+
+}
+.definition{
+    display:flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width:thin;
+    height:60vh;
+    padding:10px 15px;
+    border:1px solid #555151;
+    border-radius: 10px;
+    text-align: left;
+    overflow-x: hidden;
+    margin:5 0;
+    
+
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.definition::-webkit-scrollbar {
+    display: none;
+}
+@media (max-width:700px) {
+    .definition{
+        height:50vh;
+        
+    }
+}
+.singleMean{
+    display:flex;
+    flex-direction: column;
+    border:solid #555151;
+    border-radius: 10px;
+    padding:10px 15px;
+    margin:5px 0;
+
+    
+
+}
