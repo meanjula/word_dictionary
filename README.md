@@ -22,5 +22,9 @@ $ cd project directory
 $ npx create-react-app <project folder name>
 $ npm start
 ```
+## Learn More
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To learn React, check out the [React documentation](https://reactjs.org/).
+
 ## Sources
 This is 12 language dictionary app tutorial by [piyush-eon](https://github.com/piyush-eon/react-dictionary-wordhunt)
