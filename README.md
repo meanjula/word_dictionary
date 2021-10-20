@@ -1,20 +1,23 @@
 # Dictionary App
 
 ## General info
-Dictionary app created using react, material Ui and axios.
+Dictionary app is a single page app created using react, material Ui and axios.
 	
 ## Technologies
-Project is created with:
+Project is created using:
 * react: 17.0.2
 * axios: 0.21.1
 * @material-ui/core: 4.12.3
 	
 ## Setup
-To start from scratch do the following steps.
+To build this app from scratch you need to have node and npm installed in your machine and then run following commands
 ```
-$ cd project directory
 $ npx create-react-app <project name>
+$ cd project directory
 $ npm start
+$ npm install react-axios
+$ npm install material Ui
+
 ```
 ## Credits
 Made with [piyush-eon]
