@@ -10,7 +10,6 @@ Project is created with:
 * @material-ui/core: 4.12.3
 	
 ## Setup
-To run this project, install it locally using npm:
 To start from scratch do the following steps.
 ```
 $ cd project directory
