@@ -20,4 +20,4 @@ $ npm install material Ui
 
 ```
 ## Credits
-Thanks to [freecodecamp] and [Piyush-eon] (https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/) for this wonderful tutorial.
+Thanks to [freecodecamp](https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/) for this wonderful tutorial.
